@@ -9,4 +9,4 @@
 
 This is the result. I hope it is useful to you. 
 
-I also have a few recommended print settings, [shown here](recommendedsettings.md)
+I also have a few recommended print settings, [shown here](recommendedsettings/recommendedsettings.md)
